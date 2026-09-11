@@ -1,1 +1,1 @@
-# Probability-theory-for-AI-systems
+# Теория вероятности для систем ИИ
